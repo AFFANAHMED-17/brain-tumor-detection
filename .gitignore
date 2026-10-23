@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.brain
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs
+runs/
+
+# Large model weights (if not intentionally publishing)
+*.pt
+*.pth
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
